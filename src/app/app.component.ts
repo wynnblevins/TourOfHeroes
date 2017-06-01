@@ -35,7 +35,7 @@ const HEROES: Hero[] = [
       <h2>{{hero.name}} details!</h2>
       <div><label>id: </label>{{hero.id}}</div>
       <div><label>name: </label>{{hero.name}}</div>
-      `
+      `,
       styles: [`
       .selected {
         background-color: #CFD8DC !important;
